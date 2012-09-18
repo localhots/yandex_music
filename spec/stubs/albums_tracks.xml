@@ -1,0 +1,538 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<album id="10370" storage-dir="f19d4653.a.10370" modified="2010-11-10T16:50:55+03:00" recent="false" original-release-year="2008">
+  <title selected="true">Все, кого ты так сильно любил</title>
+  <cover id="1" selected="true" />
+  <genre id="rock" weight="1" composer-top="false">
+    <titles>
+      <title language="kz">Рок</title>
+      <title language="ua">Рок</title>
+      <title language="ru">Рок</title>
+      <title language="en">Rock</title>
+      <title language="by">Рок</title>
+    </titles>
+  </genre>
+  <muz-ru-link album="A0000020479" title="Все, кого ты так сильно любил" ensemble="Ундервуд" price="102.00" />
+  <regions>
+    <region id="225" track-count="16" />
+    <region id="187" track-count="16" />
+    <region id="149" track-count="16" />
+    <region id="159" track-count="16" />
+    <region id="225mp" track-count="16" />
+    <region id="187mp" track-count="16" />
+    <region id="149mp" track-count="16" />
+    <region id="159mp" track-count="16" />
+  </regions>
+  <display wide-tracks="true" per-track-performers="true" />
+  <artist role="performer" id="41094" modified="2012-09-05T06:06:09+04:00" various="false" composer="false">
+    <name selected="true">Ундервуд</name>
+  </artist>
+  <tracks>
+    <volume id="1">
+      <track id="109596" storage-dir="2099d762.109596" duration="204" duration-millis="204370" file-size="4907675" modified="2010-11-10T16:50:55+03:00">
+        <title selected="true">Ода К Радости</title>
+        <muz-ru-link track="T0000211137" title="Ода к радости" ensemble="Ундервуд" price="11.00" />
+        <regions>
+          <region id="225" major-id="6" major-name="NIKITIN" />
+          <region id="187" major-id="6" major-name="NIKITIN" />
+          <region id="149" major-id="6" major-name="NIKITIN" />
+          <region id="159" major-id="6" major-name="NIKITIN" />
+          <region id="225mp" major-id="6" major-name="NIKITIN" />
+          <region id="187mp" major-id="6" major-name="NIKITIN" />
+          <region id="149mp" major-id="6" major-name="NIKITIN" />
+          <region id="159mp" major-id="6" major-name="NIKITIN" />
+        </regions>
+        <ownership major-id="6" />
+        <artist role="performer" id="41094" modified="2012-09-05T06:06:09+04:00" various="false" composer="false">
+          <name selected="true">Ундервуд</name>
+        </artist>
+        <album id="10370" storage-dir="f19d4653.a.10370" modified="2010-11-10T16:50:55+03:00" recent="false" original-release-year="2008">
+          <title selected="true">Все, кого ты так сильно любил</title>
+          <cover id="1" selected="true" />
+          <genre id="rock" weight="1" composer-top="false">
+            <titles>
+              <title language="kz">Рок</title>
+              <title language="ua">Рок</title>
+              <title language="ru">Рок</title>
+              <title language="en">Rock</title>
+              <title language="by">Рок</title>
+            </titles>
+          </genre>
+          <muz-ru-link album="A0000020479" title="Все, кого ты так сильно любил" ensemble="Ундервуд" price="102.00" />
+        </album>
+      </track>
+      <track id="109591" storage-dir="3a765a74.109591" duration="325" duration-millis="325187" file-size="7809775" modified="2010-11-10T16:50:55+03:00">
+        <title selected="true">Мама Я Нашел Нефть</title>
+        <regions>
+          <region id="225" major-id="6" major-name="NIKITIN" />
+          <region id="187" major-id="6" major-name="NIKITIN" />
+          <region id="149" major-id="6" major-name="NIKITIN" />
+          <region id="159" major-id="6" major-name="NIKITIN" />
+          <region id="225mp" major-id="6" major-name="NIKITIN" />
+          <region id="187mp" major-id="6" major-name="NIKITIN" />
+          <region id="149mp" major-id="6" major-name="NIKITIN" />
+          <region id="159mp" major-id="6" major-name="NIKITIN" />
+        </regions>
+        <ownership major-id="6" />
+        <artist role="performer" id="41094" modified="2012-09-05T06:06:09+04:00" various="false" composer="false">
+          <name selected="true">Ундервуд</name>
+        </artist>
+        <album id="10370" storage-dir="f19d4653.a.10370" modified="2010-11-10T16:50:55+03:00" recent="false" original-release-year="2008">
+          <title selected="true">Все, кого ты так сильно любил</title>
+          <cover id="1" selected="true" />
+          <genre id="rock" weight="1" composer-top="false">
+            <titles>
+              <title language="kz">Рок</title>
+              <title language="ua">Рок</title>
+              <title language="ru">Рок</title>
+              <title language="en">Rock</title>
+              <title language="by">Рок</title>
+            </titles>
+          </genre>
+          <muz-ru-link album="A0000020479" title="Все, кого ты так сильно любил" ensemble="Ундервуд" price="102.00" />
+        </album>
+      </track>
+      <track id="109600" storage-dir="197a817d.109600" duration="173" duration-millis="173181" file-size="4158484" modified="2010-11-10T16:50:55+03:00">
+        <title selected="true">Чехов это Я</title>
+        <muz-ru-link track="T0000211139" title="Чехов это я" ensemble="Ундервуд" price="11.00" />
+        <regions>
+          <region id="225" major-id="6" major-name="NIKITIN" />
+          <region id="187" major-id="6" major-name="NIKITIN" />
+          <region id="149" major-id="6" major-name="NIKITIN" />
+          <region id="159" major-id="6" major-name="NIKITIN" />
+          <region id="225mp" major-id="6" major-name="NIKITIN" />
+          <region id="187mp" major-id="6" major-name="NIKITIN" />
+          <region id="149mp" major-id="6" major-name="NIKITIN" />
+          <region id="159mp" major-id="6" major-name="NIKITIN" />
+        </regions>
+        <ownership major-id="6" />
+        <artist role="performer" id="41094" modified="2012-09-05T06:06:09+04:00" various="false" composer="false">
+          <name selected="true">Ундервуд</name>
+        </artist>
+        <album id="10370" storage-dir="f19d4653.a.10370" modified="2010-11-10T16:50:55+03:00" recent="false" original-release-year="2008">
+          <title selected="true">Все, кого ты так сильно любил</title>
+          <cover id="1" selected="true" />
+          <genre id="rock" weight="1" composer-top="false">
+            <titles>
+              <title language="kz">Рок</title>
+              <title language="ua">Рок</title>
+              <title language="ru">Рок</title>
+              <title language="en">Rock</title>
+              <title language="by">Рок</title>
+            </titles>
+          </genre>
+          <muz-ru-link album="A0000020479" title="Все, кого ты так сильно любил" ensemble="Ундервуд" price="102.00" />
+        </album>
+      </track>
+      <track id="109597" storage-dir="46864eba.109597" duration="302" duration-millis="302584" file-size="7266846" modified="2010-11-10T16:50:55+03:00">
+        <title selected="true">Черный Пьеро</title>
+        <regions>
+          <region id="225" major-id="6" major-name="NIKITIN" />
+          <region id="187" major-id="6" major-name="NIKITIN" />
+          <region id="149" major-id="6" major-name="NIKITIN" />
+          <region id="159" major-id="6" major-name="NIKITIN" />
+          <region id="225mp" major-id="6" major-name="NIKITIN" />
+          <region id="187mp" major-id="6" major-name="NIKITIN" />
+          <region id="149mp" major-id="6" major-name="NIKITIN" />
+          <region id="159mp" major-id="6" major-name="NIKITIN" />
+        </regions>
+        <ownership major-id="6" />
+        <artist role="performer" id="41094" modified="2012-09-05T06:06:09+04:00" various="false" composer="false">
+          <name selected="true">Ундервуд</name>
+        </artist>
+        <album id="10370" storage-dir="f19d4653.a.10370" modified="2010-11-10T16:50:55+03:00" recent="false" original-release-year="2008">
+          <title selected="true">Все, кого ты так сильно любил</title>
+          <cover id="1" selected="true" />
+          <genre id="rock" weight="1" composer-top="false">
+            <titles>
+              <title language="kz">Рок</title>
+              <title language="ua">Рок</title>
+              <title language="ru">Рок</title>
+              <title language="en">Rock</title>
+              <title language="by">Рок</title>
+            </titles>
+          </genre>
+          <muz-ru-link album="A0000020479" title="Все, кого ты так сильно любил" ensemble="Ундервуд" price="102.00" />
+        </album>
+      </track>
+      <track id="109590" storage-dir="ec72b29c.109590" duration="228" duration-millis="228591" file-size="5489475" modified="2010-11-10T16:50:55+03:00">
+        <title selected="true">Мария и Снег</title>
+        <muz-ru-link track="T0000211141" title="Мария и снег" ensemble="Ундервуд" price="11.00" />
+        <regions>
+          <region id="225" major-id="6" major-name="NIKITIN" />
+          <region id="187" major-id="6" major-name="NIKITIN" />
+          <region id="149" major-id="6" major-name="NIKITIN" />
+          <region id="159" major-id="6" major-name="NIKITIN" />
+          <region id="225mp" major-id="6" major-name="NIKITIN" />
+          <region id="187mp" major-id="6" major-name="NIKITIN" />
+          <region id="149mp" major-id="6" major-name="NIKITIN" />
+          <region id="159mp" major-id="6" major-name="NIKITIN" />
+        </regions>
+        <ownership major-id="6" />
+        <artist role="performer" id="41094" modified="2012-09-05T06:06:09+04:00" various="false" composer="false">
+          <name selected="true">Ундервуд</name>
+        </artist>
+        <album id="10370" storage-dir="f19d4653.a.10370" modified="2010-11-10T16:50:55+03:00" recent="false" original-release-year="2008">
+          <title selected="true">Все, кого ты так сильно любил</title>
+          <cover id="1" selected="true" />
+          <genre id="rock" weight="1" composer-top="false">
+            <titles>
+              <title language="kz">Рок</title>
+              <title language="ua">Рок</title>
+              <title language="ru">Рок</title>
+              <title language="en">Rock</title>
+              <title language="by">Рок</title>
+            </titles>
+          </genre>
+          <muz-ru-link album="A0000020479" title="Все, кого ты так сильно любил" ensemble="Ундервуд" price="102.00" />
+        </album>
+      </track>
+      <track id="109598" storage-dir="1e1903db.109598" duration="237" duration-millis="237308" file-size="5698872" modified="2010-11-10T16:50:55+03:00">
+        <title selected="true">Химия и Жизнь</title>
+        <muz-ru-link track="T0000211142" title="Химия и жизнь" ensemble="Ундервуд" price="11.00" />
+        <regions>
+          <region id="225" major-id="6" major-name="NIKITIN" />
+          <region id="187" major-id="6" major-name="NIKITIN" />
+          <region id="149" major-id="6" major-name="NIKITIN" />
+          <region id="159" major-id="6" major-name="NIKITIN" />
+          <region id="225mp" major-id="6" major-name="NIKITIN" />
+          <region id="187mp" major-id="6" major-name="NIKITIN" />
+          <region id="149mp" major-id="6" major-name="NIKITIN" />
+          <region id="159mp" major-id="6" major-name="NIKITIN" />
+        </regions>
+        <ownership major-id="6" />
+        <artist role="performer" id="41094" modified="2012-09-05T06:06:09+04:00" various="false" composer="false">
+          <name selected="true">Ундервуд</name>
+        </artist>
+        <album id="10370" storage-dir="f19d4653.a.10370" modified="2010-11-10T16:50:55+03:00" recent="false" original-release-year="2008">
+          <title selected="true">Все, кого ты так сильно любил</title>
+          <cover id="1" selected="true" />
+          <genre id="rock" weight="1" composer-top="false">
+            <titles>
+              <title language="kz">Рок</title>
+              <title language="ua">Рок</title>
+              <title language="ru">Рок</title>
+              <title language="en">Rock</title>
+              <title language="by">Рок</title>
+            </titles>
+          </genre>
+          <muz-ru-link album="A0000020479" title="Все, кого ты так сильно любил" ensemble="Ундервуд" price="102.00" />
+        </album>
+      </track>
+      <track id="109594" storage-dir="8d8ad746.109594" duration="221" duration-millis="221648" file-size="5322709" modified="2010-11-10T16:50:55+03:00">
+        <title selected="true">Дитя Мое</title>
+        <muz-ru-link track="T0000211143" title="Дитя мое" ensemble="Ундервуд" price="11.00" />
+        <regions>
+          <region id="225" major-id="6" major-name="NIKITIN" />
+          <region id="187" major-id="6" major-name="NIKITIN" />
+          <region id="149" major-id="6" major-name="NIKITIN" />
+          <region id="159" major-id="6" major-name="NIKITIN" />
+          <region id="225mp" major-id="6" major-name="NIKITIN" />
+          <region id="187mp" major-id="6" major-name="NIKITIN" />
+          <region id="149mp" major-id="6" major-name="NIKITIN" />
+          <region id="159mp" major-id="6" major-name="NIKITIN" />
+        </regions>
+        <ownership major-id="6" />
+        <artist role="performer" id="41094" modified="2012-09-05T06:06:09+04:00" various="false" composer="false">
+          <name selected="true">Ундервуд</name>
+        </artist>
+        <album id="10370" storage-dir="f19d4653.a.10370" modified="2010-11-10T16:50:55+03:00" recent="false" original-release-year="2008">
+          <title selected="true">Все, кого ты так сильно любил</title>
+          <cover id="1" selected="true" />
+          <genre id="rock" weight="1" composer-top="false">
+            <titles>
+              <title language="kz">Рок</title>
+              <title language="ua">Рок</title>
+              <title language="ru">Рок</title>
+              <title language="en">Rock</title>
+              <title language="by">Рок</title>
+            </titles>
+          </genre>
+          <muz-ru-link album="A0000020479" title="Все, кого ты так сильно любил" ensemble="Ундервуд" price="102.00" />
+        </album>
+      </track>
+      <track id="109604" storage-dir="eda611d2.109604" duration="190" duration-millis="190354" file-size="4571009" modified="2010-11-10T16:50:55+03:00">
+        <title selected="true">Татьянин День</title>
+        <muz-ru-link track="T0000211144" title="Татьянин день" ensemble="Ундервуд" price="11.00" />
+        <regions>
+          <region id="225" major-id="6" major-name="NIKITIN" />
+          <region id="187" major-id="6" major-name="NIKITIN" />
+          <region id="149" major-id="6" major-name="NIKITIN" />
+          <region id="159" major-id="6" major-name="NIKITIN" />
+          <region id="225mp" major-id="6" major-name="NIKITIN" />
+          <region id="187mp" major-id="6" major-name="NIKITIN" />
+          <region id="149mp" major-id="6" major-name="NIKITIN" />
+          <region id="159mp" major-id="6" major-name="NIKITIN" />
+        </regions>
+        <ownership major-id="6" />
+        <artist role="performer" id="41094" modified="2012-09-05T06:06:09+04:00" various="false" composer="false">
+          <name selected="true">Ундервуд</name>
+        </artist>
+        <album id="10370" storage-dir="f19d4653.a.10370" modified="2010-11-10T16:50:55+03:00" recent="false" original-release-year="2008">
+          <title selected="true">Все, кого ты так сильно любил</title>
+          <cover id="1" selected="true" />
+          <genre id="rock" weight="1" composer-top="false">
+            <titles>
+              <title language="kz">Рок</title>
+              <title language="ua">Рок</title>
+              <title language="ru">Рок</title>
+              <title language="en">Rock</title>
+              <title language="by">Рок</title>
+            </titles>
+          </genre>
+          <muz-ru-link album="A0000020479" title="Все, кого ты так сильно любил" ensemble="Ундервуд" price="102.00" />
+        </album>
+      </track>
+      <track id="109601" storage-dir="d23fb0e5.109601" duration="179" duration-millis="179523" file-size="4310830" modified="2010-12-23T13:30:34+03:00">
+        <title selected="true">Очень хочется в Советский Союз</title>
+        <muz-ru-link track="T0000211145" title="Очень хочется в Советский Союз" ensemble="Ундервуд" price="11.00" />
+        <regions>
+          <region id="225" major-id="6" major-name="NIKITIN" />
+          <region id="187" major-id="6" major-name="NIKITIN" />
+          <region id="149" major-id="6" major-name="NIKITIN" />
+          <region id="159" major-id="6" major-name="NIKITIN" />
+          <region id="225mp" major-id="6" major-name="NIKITIN" />
+          <region id="187mp" major-id="6" major-name="NIKITIN" />
+          <region id="149mp" major-id="6" major-name="NIKITIN" />
+          <region id="159mp" major-id="6" major-name="NIKITIN" />
+        </regions>
+        <ownership major-id="6" />
+        <artist role="performer" id="41094" modified="2012-09-05T06:06:09+04:00" various="false" composer="false">
+          <name selected="true">Ундервуд</name>
+        </artist>
+        <album id="10370" storage-dir="f19d4653.a.10370" modified="2010-11-10T16:50:55+03:00" recent="false" original-release-year="2008">
+          <title selected="true">Все, кого ты так сильно любил</title>
+          <cover id="1" selected="true" />
+          <genre id="rock" weight="1" composer-top="false">
+            <titles>
+              <title language="kz">Рок</title>
+              <title language="ua">Рок</title>
+              <title language="ru">Рок</title>
+              <title language="en">Rock</title>
+              <title language="by">Рок</title>
+            </titles>
+          </genre>
+          <muz-ru-link album="A0000020479" title="Все, кого ты так сильно любил" ensemble="Ундервуд" price="102.00" />
+        </album>
+      </track>
+      <track id="109605" storage-dir="06ab588c.109605" duration="405" duration-millis="405836" file-size="9747016" modified="2010-11-10T16:50:55+03:00">
+        <title selected="true">Год За Годом</title>
+        <muz-ru-link track="T0000211146" title="Год за годом" ensemble="Ундервуд" price="11.00" />
+        <regions>
+          <region id="225" major-id="6" major-name="NIKITIN" />
+          <region id="187" major-id="6" major-name="NIKITIN" />
+          <region id="149" major-id="6" major-name="NIKITIN" />
+          <region id="159" major-id="6" major-name="NIKITIN" />
+          <region id="225mp" major-id="6" major-name="NIKITIN" />
+          <region id="187mp" major-id="6" major-name="NIKITIN" />
+          <region id="149mp" major-id="6" major-name="NIKITIN" />
+          <region id="159mp" major-id="6" major-name="NIKITIN" />
+        </regions>
+        <ownership major-id="6" />
+        <artist role="performer" id="41094" modified="2012-09-05T06:06:09+04:00" various="false" composer="false">
+          <name selected="true">Ундервуд</name>
+        </artist>
+        <album id="10370" storage-dir="f19d4653.a.10370" modified="2010-11-10T16:50:55+03:00" recent="false" original-release-year="2008">
+          <title selected="true">Все, кого ты так сильно любил</title>
+          <cover id="1" selected="true" />
+          <genre id="rock" weight="1" composer-top="false">
+            <titles>
+              <title language="kz">Рок</title>
+              <title language="ua">Рок</title>
+              <title language="ru">Рок</title>
+              <title language="en">Rock</title>
+              <title language="by">Рок</title>
+            </titles>
+          </genre>
+          <muz-ru-link album="A0000020479" title="Все, кого ты так сильно любил" ensemble="Ундервуд" price="102.00" />
+        </album>
+      </track>
+      <track id="109602" storage-dir="87cdde76.109602" duration="234" duration-millis="234620" file-size="5634297" modified="2010-11-10T16:50:55+03:00">
+        <title selected="true">Всех, Кого Ты Так Сильно Любил</title>
+        <regions>
+          <region id="225" major-id="6" major-name="NIKITIN" />
+          <region id="187" major-id="6" major-name="NIKITIN" />
+          <region id="149" major-id="6" major-name="NIKITIN" />
+          <region id="159" major-id="6" major-name="NIKITIN" />
+          <region id="225mp" major-id="6" major-name="NIKITIN" />
+          <region id="187mp" major-id="6" major-name="NIKITIN" />
+          <region id="149mp" major-id="6" major-name="NIKITIN" />
+          <region id="159mp" major-id="6" major-name="NIKITIN" />
+        </regions>
+        <ownership major-id="6" />
+        <artist role="performer" id="41094" modified="2012-09-05T06:06:09+04:00" various="false" composer="false">
+          <name selected="true">Ундервуд</name>
+        </artist>
+        <album id="10370" storage-dir="f19d4653.a.10370" modified="2010-11-10T16:50:55+03:00" recent="false" original-release-year="2008">
+          <title selected="true">Все, кого ты так сильно любил</title>
+          <cover id="1" selected="true" />
+          <genre id="rock" weight="1" composer-top="false">
+            <titles>
+              <title language="kz">Рок</title>
+              <title language="ua">Рок</title>
+              <title language="ru">Рок</title>
+              <title language="en">Rock</title>
+              <title language="by">Рок</title>
+            </titles>
+          </genre>
+          <muz-ru-link album="A0000020479" title="Все, кого ты так сильно любил" ensemble="Ундервуд" price="102.00" />
+        </album>
+      </track>
+      <track id="109603" storage-dir="afedd629.109603" duration="200" duration-millis="200690" file-size="4819277" modified="2010-11-10T16:50:55+03:00">
+        <title selected="true">Смерть в Венеции</title>
+        <muz-ru-link track="T0000211148" title="Смерть в Венеции" ensemble="Ундервуд" price="11.00" />
+        <regions>
+          <region id="225" major-id="6" major-name="NIKITIN" />
+          <region id="187" major-id="6" major-name="NIKITIN" />
+          <region id="149" major-id="6" major-name="NIKITIN" />
+          <region id="159" major-id="6" major-name="NIKITIN" />
+          <region id="225mp" major-id="6" major-name="NIKITIN" />
+          <region id="187mp" major-id="6" major-name="NIKITIN" />
+          <region id="149mp" major-id="6" major-name="NIKITIN" />
+          <region id="159mp" major-id="6" major-name="NIKITIN" />
+        </regions>
+        <ownership major-id="6" />
+        <artist role="performer" id="41094" modified="2012-09-05T06:06:09+04:00" various="false" composer="false">
+          <name selected="true">Ундервуд</name>
+        </artist>
+        <album id="10370" storage-dir="f19d4653.a.10370" modified="2010-11-10T16:50:55+03:00" recent="false" original-release-year="2008">
+          <title selected="true">Все, кого ты так сильно любил</title>
+          <cover id="1" selected="true" />
+          <genre id="rock" weight="1" composer-top="false">
+            <titles>
+              <title language="kz">Рок</title>
+              <title language="ua">Рок</title>
+              <title language="ru">Рок</title>
+              <title language="en">Rock</title>
+              <title language="by">Рок</title>
+            </titles>
+          </genre>
+          <muz-ru-link album="A0000020479" title="Все, кого ты так сильно любил" ensemble="Ундервуд" price="102.00" />
+        </album>
+      </track>
+      <track id="109593" storage-dir="e40dae33.109593" duration="277" duration-millis="277110" file-size="6651819" modified="2011-07-20T14:05:55+04:00">
+        <title selected="true">Моя Любовь</title>
+        <regions>
+          <region id="225" major-id="6" major-name="NIKITIN" />
+          <region id="187" major-id="6" major-name="NIKITIN" />
+          <region id="149" major-id="6" major-name="NIKITIN" />
+          <region id="159" major-id="6" major-name="NIKITIN" />
+          <region id="225mp" major-id="6" major-name="NIKITIN" />
+          <region id="187mp" major-id="6" major-name="NIKITIN" />
+          <region id="149mp" major-id="6" major-name="NIKITIN" />
+          <region id="159mp" major-id="6" major-name="NIKITIN" />
+        </regions>
+        <ownership major-id="6" />
+        <artist role="performer" id="458113" modified="2011-07-20T14:05:55+04:00" various="false" composer="false">
+          <name selected="true">Андрей Макаревич и Оркестр Креольского Танго ft. Кристина Прилепина</name>
+        </artist>
+        <album id="10370" storage-dir="f19d4653.a.10370" modified="2010-11-10T16:50:55+03:00" recent="false" original-release-year="2008">
+          <title selected="true">Все, кого ты так сильно любил</title>
+          <cover id="1" selected="true" />
+          <genre id="rock" weight="1" composer-top="false">
+            <titles>
+              <title language="kz">Рок</title>
+              <title language="ua">Рок</title>
+              <title language="ru">Рок</title>
+              <title language="en">Rock</title>
+              <title language="by">Рок</title>
+            </titles>
+          </genre>
+          <muz-ru-link album="A0000020479" title="Все, кого ты так сильно любил" ensemble="Ундервуд" price="102.00" />
+        </album>
+      </track>
+      <track id="109595" storage-dir="2da82829.109595" duration="270" duration-millis="270004" file-size="6481292" modified="2010-11-10T16:50:55+03:00">
+        <title selected="true">Моя Любовь</title>
+        <regions>
+          <region id="225" major-id="6" major-name="NIKITIN" />
+          <region id="187" major-id="6" major-name="NIKITIN" />
+          <region id="149" major-id="6" major-name="NIKITIN" />
+          <region id="159" major-id="6" major-name="NIKITIN" />
+          <region id="225mp" major-id="6" major-name="NIKITIN" />
+          <region id="187mp" major-id="6" major-name="NIKITIN" />
+          <region id="149mp" major-id="6" major-name="NIKITIN" />
+          <region id="159mp" major-id="6" major-name="NIKITIN" />
+        </regions>
+        <ownership major-id="6" />
+        <artist role="performer" id="41094" modified="2012-09-05T06:06:09+04:00" various="false" composer="false">
+          <name selected="true">Ундервуд</name>
+        </artist>
+        <album id="10370" storage-dir="f19d4653.a.10370" modified="2010-11-10T16:50:55+03:00" recent="false" original-release-year="2008">
+          <title selected="true">Все, кого ты так сильно любил</title>
+          <cover id="1" selected="true" />
+          <genre id="rock" weight="1" composer-top="false">
+            <titles>
+              <title language="kz">Рок</title>
+              <title language="ua">Рок</title>
+              <title language="ru">Рок</title>
+              <title language="en">Rock</title>
+              <title language="by">Рок</title>
+            </titles>
+          </genre>
+          <muz-ru-link album="A0000020479" title="Все, кого ты так сильно любил" ensemble="Ундервуд" price="102.00" />
+        </album>
+      </track>
+      <track id="109599" storage-dir="4967e19d.109599" duration="181" duration-millis="181136" file-size="4348446" modified="2010-11-10T16:50:55+03:00">
+        <title selected="true">Мой Маленький Мозг</title>
+        <regions>
+          <region id="225" major-id="6" major-name="NIKITIN" />
+          <region id="187" major-id="6" major-name="NIKITIN" />
+          <region id="149" major-id="6" major-name="NIKITIN" />
+          <region id="159" major-id="6" major-name="NIKITIN" />
+          <region id="225mp" major-id="6" major-name="NIKITIN" />
+          <region id="187mp" major-id="6" major-name="NIKITIN" />
+          <region id="149mp" major-id="6" major-name="NIKITIN" />
+          <region id="159mp" major-id="6" major-name="NIKITIN" />
+        </regions>
+        <ownership major-id="6" />
+        <artist role="performer" id="41094" modified="2012-09-05T06:06:09+04:00" various="false" composer="false">
+          <name selected="true">Ундервуд</name>
+        </artist>
+        <album id="10370" storage-dir="f19d4653.a.10370" modified="2010-11-10T16:50:55+03:00" recent="false" original-release-year="2008">
+          <title selected="true">Все, кого ты так сильно любил</title>
+          <cover id="1" selected="true" />
+          <genre id="rock" weight="1" composer-top="false">
+            <titles>
+              <title language="kz">Рок</title>
+              <title language="ua">Рок</title>
+              <title language="ru">Рок</title>
+              <title language="en">Rock</title>
+              <title language="by">Рок</title>
+            </titles>
+          </genre>
+          <muz-ru-link album="A0000020479" title="Все, кого ты так сильно любил" ensemble="Ундервуд" price="102.00" />
+        </album>
+      </track>
+      <track id="109592" storage-dir="0756f80a.109592" duration="220" duration-millis="220528" file-size="5293870" modified="2010-11-10T16:50:55+03:00">
+        <title selected="true">Простите, Пацаны..</title>
+        <regions>
+          <region id="225" major-id="6" major-name="NIKITIN" />
+          <region id="187" major-id="6" major-name="NIKITIN" />
+          <region id="149" major-id="6" major-name="NIKITIN" />
+          <region id="159" major-id="6" major-name="NIKITIN" />
+          <region id="225mp" major-id="6" major-name="NIKITIN" />
+          <region id="187mp" major-id="6" major-name="NIKITIN" />
+          <region id="149mp" major-id="6" major-name="NIKITIN" />
+          <region id="159mp" major-id="6" major-name="NIKITIN" />
+        </regions>
+        <ownership major-id="6" />
+        <artist role="performer" id="41094" modified="2012-09-05T06:06:09+04:00" various="false" composer="false">
+          <name selected="true">Ундервуд</name>
+        </artist>
+        <album id="10370" storage-dir="f19d4653.a.10370" modified="2010-11-10T16:50:55+03:00" recent="false" original-release-year="2008">
+          <title selected="true">Все, кого ты так сильно любил</title>
+          <cover id="1" selected="true" />
+          <genre id="rock" weight="1" composer-top="false">
+            <titles>
+              <title language="kz">Рок</title>
+              <title language="ua">Рок</title>
+              <title language="ru">Рок</title>
+              <title language="en">Rock</title>
+              <title language="by">Рок</title>
+            </titles>
+          </genre>
+          <muz-ru-link album="A0000020479" title="Все, кого ты так сильно любил" ensemble="Ундервуд" price="102.00" />
+        </album>
+      </track>
+    </volume>
+  </tracks>
+</album>

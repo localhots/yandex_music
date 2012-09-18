@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist-albums generated-date="2012-09-10T00:03:00+04:00" generated-hostname="export01g.music.yandex.net" generated-app-version="12.34.2.4ec44232053c (4ec44232053c; ssh://hg.yandex-team.ru/media/music/hangar; 2012-09-05 19:01)" artist-id="41094" sort="rating">
+  <artist id="41094" modified="2012-09-05T06:06:09+04:00" various="false" composer="false">
+    <name selected="true">Ундервуд</name>
+  </artist>
+  <pager total="5" page="0" per-page="5" />
+  <album id="10381" storage-dir="c06370e7.a.10381" modified="2010-09-08T19:35:00+04:00" recent="false" original-release-year="2002">
+    <title selected="true">Все пройдет, милая</title>
+    <cover id="1" selected="true" />
+    <genre id="rock" weight="1" composer-top="false">
+      <titles>
+        <title language="kz">Рок</title>
+        <title language="ua">Рок</title>
+        <title language="ru">Рок</title>
+        <title language="en">Rock</title>
+        <title language="by">Рок</title>
+      </titles>
+    </genre>
+    <regions>
+      <region id="225" track-count="12" />
+      <region id="187" track-count="7" />
+      <region id="159" track-count="7" />
+      <region id="225mp" track-count="12" />
+      <region id="187mp" track-count="7" />
+      <region id="159mp" track-count="7" />
+    </regions>
+    <display wide-tracks="false" per-track-performers="false" />
+    <artist role="performer" id="41094" modified="2012-09-05T06:06:09+04:00" various="false" composer="false">
+      <name selected="true">Ундервуд</name>
+    </artist>
+  </album>
+  <album id="219581" storage-dir="1d2f8c60.a.219581" modified="2011-04-28T14:46:17+04:00" recent="false" original-release-year="2011">
+    <title selected="true">Бабл-гам</title>
+    <cover id="1" selected="true" />
+    <genre id="rock" weight="1" composer-top="false">
+      <titles>
+        <title language="kz">Рок</title>
+        <title language="ua">Рок</title>
+        <title language="ru">Рок</title>
+        <title language="en">Rock</title>
+        <title language="by">Рок</title>
+      </titles>
+    </genre>
+    <muz-ru-link album="A0000221552" title="Бабл-гам" ensemble="Ундервуд" price="120.00" />
+    <regions>
+      <region id="225" track-count="12" />
+      <region id="187" track-count="12" />
+      <region id="149" track-count="12" />
+      <region id="159" track-count="12" />
+      <region id="225mp" track-count="12" />
+      <region id="187mp" track-count="12" />
+      <region id="149mp" track-count="12" />
+      <region id="159mp" track-count="12" />
+    </regions>
+    <display wide-tracks="false" per-track-performers="false" />
+    <artist role="performer" id="41094" modified="2012-09-05T06:06:09+04:00" various="false" composer="false">
+      <name selected="true">Ундервуд</name>
+    </artist>
+  </album>
+  <album id="10370" storage-dir="f19d4653.a.10370" modified="2010-11-10T16:50:55+03:00" recent="false" original-release-year="2008">
+    <title selected="true">Все, кого ты так сильно любил</title>
+    <cover id="1" selected="true" />
+    <genre id="rock" weight="1" composer-top="false">
+      <titles>
+        <title language="kz">Рок</title>
+        <title language="ua">Рок</title>
+        <title language="ru">Рок</title>
+        <title language="en">Rock</title>
+        <title language="by">Рок</title>
+      </titles>
+    </genre>
+    <muz-ru-link album="A0000020479" title="Все, кого ты так сильно любил" ensemble="Ундервуд" price="102.00" />
+    <regions>
+      <region id="225" track-count="16" />
+      <region id="187" track-count="16" />
+      <region id="149" track-count="16" />
+      <region id="159" track-count="16" />
+      <region id="225mp" track-count="16" />
+      <region id="187mp" track-count="16" />
+      <region id="149mp" track-count="16" />
+      <region id="159mp" track-count="16" />
+    </regions>
+    <display wide-tracks="true" per-track-performers="true" />
+    <artist role="performer" id="41094" modified="2012-09-05T06:06:09+04:00" various="false" composer="false">
+      <name selected="true">Ундервуд</name>
+    </artist>
+  </album>
+  <album id="10295" storage-dir="203d4053.a.10295" modified="2009-10-24T01:22:36+04:00" recent="false" original-release-year="2005">
+    <title selected="true">Бабло побеждает зло</title>
+    <cover id="1" selected="true" />
+    <genre id="rock" weight="1" composer-top="false">
+      <titles>
+        <title language="kz">Рок</title>
+        <title language="ua">Рок</title>
+        <title language="ru">Рок</title>
+        <title language="en">Rock</title>
+        <title language="by">Рок</title>
+      </titles>
+    </genre>
+    <regions>
+      <region id="225" track-count="13" />
+      <region id="187" track-count="9" />
+      <region id="159" track-count="9" />
+      <region id="225mp" track-count="13" />
+      <region id="187mp" track-count="9" />
+      <region id="159mp" track-count="9" />
+    </regions>
+    <display wide-tracks="false" per-track-performers="false" />
+    <artist role="performer" id="41094" modified="2012-09-05T06:06:09+04:00" various="false" composer="false">
+      <name selected="true">Ундервуд</name>
+    </artist>
+  </album>
+  <album id="10360" storage-dir="ad5a33f2.a.10360" modified="2009-10-24T02:11:52+04:00" recent="false" original-release-year="2003">
+    <title selected="true">Красная кнопка</title>
+    <cover id="1" selected="true" />
+    <genre id="rock" weight="1" composer-top="false">
+      <titles>
+        <title language="kz">Рок</title>
+        <title language="ua">Рок</title>
+        <title language="ru">Рок</title>
+        <title language="en">Rock</title>
+        <title language="by">Рок</title>
+      </titles>
+    </genre>
+    <regions>
+      <region id="225" track-count="11" />
+      <region id="187" track-count="10" />
+      <region id="159" track-count="10" />
+      <region id="225mp" track-count="11" />
+      <region id="187mp" track-count="10" />
+      <region id="159mp" track-count="10" />
+    </regions>
+    <display wide-tracks="false" per-track-performers="false" />
+    <artist role="performer" id="41094" modified="2012-09-05T06:06:09+04:00" various="false" composer="false">
+      <name selected="true">Ундервуд</name>
+    </artist>
+  </album>
+</artist-albums>
